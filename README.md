@@ -11,7 +11,7 @@
 ![Gaming](https://img.shields.io/badge/Hobby-Gaming🎮-blueviolet?style=for-the-badge)
 <hr>
 
-[![Website](https://img.shields.io/badge/Website-myportfolio.com-0a0a0a?style=for-the-badge&logo=google-chrome&logoColor=white)](https://myportfolio.com)
+[![Website](https://img.shields.io/badge/Website-Portfolio-0a0a0a?style=for-the-badge&logo=google-chrome&logoColor=white)](https://awitkowsky.netlify.app/)
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTlvODltYTV1N21jdGZ4MWNreXZ0bTdydzl2dGZ0MHIxMmozZzJsbCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/WodOtJNNNQEXRSSXp2/giphy.gif" width="50"> A little more info...  
 
 ```javascript
