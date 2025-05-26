@@ -5,7 +5,7 @@
 <hr>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Antoni%20Witkowski-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoniwitkowski/)
-[![Email](https://img.shields.io/badge/Email-awitkowsky.contact%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:awitkowsky.contact@gmail.com)
+[![Email](https://img.shields.io/badge/Email-awitkowsky.contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:awitkowsky.contact@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-a__cherry__w-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
 [![Steam](https://img.shields.io/badge/Steam-Change__IP-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Change_IP/)
 ![Gaming](https://img.shields.io/badge/Hobby-Gaming🎮-blueviolet?style=for-the-badge)
