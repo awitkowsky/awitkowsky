@@ -18,7 +18,7 @@
 let polish = {
   languages:  ["HTML", "CSS", "JS", "PHP", "SQL", "Python"],
   programs:   ["MySQL", "Netlify", "Git", "GitHub", "VsCode", "Neo4j"],
-  frameworks: ["Tailwind"],
+  frameworks: ["React", "Tailwind"],
   techCommunities: {
       "INF.02": PASSED,
       "eJPT": PASSED,
